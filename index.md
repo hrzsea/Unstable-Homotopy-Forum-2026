@@ -16,7 +16,7 @@ The event will follow a workshop-style forum format, featuring about 18 invited 
 
 ### Speakers: 
 
-[Samik Basu (Indian Statistical Institute)](https://isi.irins.org/profile/111494), 
+[Samik Basu (Indian Statistical Institute)](https://isi.irins.org/profile/111494),  
 [Sergei Ivanov (BIMSA)](https://bimsa.net/people/sivanov/), 
 [Norio Iwase (Kyushu University)](https://www2.math.kyushu-u.ac.jp/~iwase/index-e.html), 
 [Daisuke Kishimoto (Kyushu University)](https://www2.math.kyushu-u.ac.jp/~kishimoto/home.html), 

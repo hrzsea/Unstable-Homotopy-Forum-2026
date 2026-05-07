@@ -31,7 +31,7 @@ The event will follow a workshop-style forum format, featuring about 18 invited 
 
 [Lewis Stanton (University of Southampton)](https://www.southampton.ac.uk/people/66zkm9/doctor-lewis-stanton), 
 
-[Enxin Wu (Shantou University)](https://www2.math.kyushu-u.ac.jp/~kishimoto/home.html), 
+[Enxin Wu (Shantou University)](https://ncatlab.org/nlab/show/Enxin+Wu), 
 
 [Juxin Yang (Dalian University of Technology)](https://www.bimsa.cn/detail/jxyang.html), 
 

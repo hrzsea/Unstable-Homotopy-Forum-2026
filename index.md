@@ -1,7 +1,7 @@
 # Unstable Homotopy Forum II at AMSS
 ## <font color=DeepSkyBlue size=5 face="黑体"> Aug. 03-07, 2026 </font>
 
-The forum is dedicated to sharing recent advances and key techniques, fostering collaboration, formulating new problems, and inspiring interdisciplinary research in related areas such as manifolds, geometry, algebra and natural science.
+This forum focuses on unstable homotopy theory and its applications to related fields, including manifolds, geometry, algebra, and the natural sciences. It aims to provide a platform for sharing and discussing recent advances in these areas, thereby fostering communication and collaboration among participants, inspiring new problems and directions, and promoting interdisciplinary research.
 
 The event will follow a workshop-style forum format, featuring about 18 invited speakers, each delivering a 50min talk.
 

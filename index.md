@@ -37,6 +37,8 @@ The event will follow a workshop-style forum format, featuring about 18 invited 
 
 [Juxin Yang (Dalian University of Technology)](https://www.bimsa.cn/detail/jxyang.html), 
 
+[Li Yu (Nanjing University)](http://maths.nju.edu.cn/~lyu/), 
+
 -------------------------------------------------------------------------------------------
 
 ## <span id="Program">Program</span>  

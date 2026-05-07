@@ -1,9 +1,9 @@
 # Unstable Homotopy Forum at AMSS
-## <font color=DeepSkyBlue size=5 face="黑体"> Aug. 12-16, 2025 </font>
+## <font color=DeepSkyBlue size=5 face="黑体"> Aug. 03-07, 2026 </font>
 
 The forum is dedicated to sharing recent advances and key techniques, fostering collaboration, formulating new problems, and inspiring interdisciplinary research in related areas such as manifolds, geometry, and algebra.
 
-The event will take the form of a workshop-style forum, featuring 10 invited speakers, each delivering a series of two one-hour talks. This format is designed to promote deep academic communications, encourage mutual learning, and allow ample time for meaningful discussions.
+The event will follow a workshop-style forum format, featuring about 18 invited speakers, each delivering a 50min talk.
 
 (Please note this forum is paperless)
 
@@ -17,23 +17,15 @@ The event will take the form of a workshop-style forum, featuring 10 invited spe
 
 [Samik Basu (Indian Statistical Institute)](https://isi.irins.org/profile/111494), 
 
-[Guy Boyde (Utrecht University)](https://guyboyde.wordpress.com/), 
-
-[Haibao Duan (AMSS)](https://baike.baidu.com/item/%E6%AE%B5%E6%B5%B7%E8%B1%B9/2745278), 
-
-[Xin Fu (Shanghai Institute for Mathematics and Interdisciplinary Sciences)](https://www.simis.cn/xin-fu/)), 
-
 [Sergei Ivanov (BIMSA)](https://bimsa.net/people/sivanov/), 
 
-[Pengcheng Li (Great Bay University)](https://lipcaty.github.io/), 
+[Norio Iwase (Kyushu University)](https://www2.math.kyushu-u.ac.jp/~iwase/index-e.html), 
 
 [Daisuke Kishimoto (Kyushu University)](https://www2.math.kyushu-u.ac.jp/~kishimoto/home.html), 
 
-[Stephen Theriault (University of Southampton)](https://www.southampton.ac.uk/people/5x9nl2/professor-stephen-theriault), 
+[Ran Levi (The University of Aberdeen)](https://www.abdn.ac.uk/people/r.levi#about), 
 
-[Jie Wu (BIMSA)](https://bimsa.net/people/jiewu/), 
-
-[Jiawei Zhou (Nanchang University)](https://bimsa.net/people/jwzhou/)
+[Enxin Wu (Shantou University)](https://www2.math.kyushu-u.ac.jp/~kishimoto/home.html), 
 
 -------------------------------------------------------------------------------------------
 

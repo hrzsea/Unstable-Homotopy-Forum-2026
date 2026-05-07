@@ -25,6 +25,8 @@ The event will follow a workshop-style forum format, featuring about 18 invited 
 
 [Ran Levi (The University of Aberdeen)](https://www.abdn.ac.uk/people/r.levi#about), 
 
+[Zhi Lv (Fudan University)](https://math.fudan.edu.cn/fa/13/c30607a326163/page.htm), 
+
 [Wen Shen (Wenzhou University)](https://orcid.org/0009-0002-0518-4032), 
 
 [Tseleung So (Pusan National University)](https://sites.google.com/view/larryso-math/home), 

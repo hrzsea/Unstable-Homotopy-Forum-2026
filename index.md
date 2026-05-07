@@ -17,18 +17,18 @@ The event will follow a workshop-style forum format, featuring about 18 invited 
 ### Speakers: 
 
 [Samik Basu (Indian Statistical Institute)](https://isi.irins.org/profile/111494),  
-[Sergei Ivanov (BIMSA)](https://bimsa.net/people/sivanov/), 
-[Norio Iwase (Kyushu University)](https://www2.math.kyushu-u.ac.jp/~iwase/index-e.html), 
-[Daisuke Kishimoto (Kyushu University)](https://www2.math.kyushu-u.ac.jp/~kishimoto/home.html), 
-[Ran Levi (The University of Aberdeen)](https://www.abdn.ac.uk/people/r.levi#about), 
-[Jian Liu (Chongqing University of Technology)](https://msrc.cqut.edu.cn/info/1018/2121.htm), 
-[Zhi Lv (Fudan University)](https://math.fudan.edu.cn/fa/13/c30607a326163/page.htm), 
-[Wen Shen (Wenzhou University)](https://orcid.org/0009-0002-0518-4032), 
-[Tseleung So (Pusan National University)](https://sites.google.com/view/larryso-math/home), 
-[Lewis Stanton (University of Southampton)](https://www.southampton.ac.uk/people/66zkm9/doctor-lewis-stanton), 
-[Enxin Wu (Shantou University)](https://ncatlab.org/nlab/show/Enxin+Wu), 
-[Juxin Yang (Dalian University of Technology)](https://www.bimsa.cn/detail/jxyang.html), 
-[Li Yu (Nanjing University)](http://maths.nju.edu.cn/~lyu/), 
+[Sergei Ivanov (BIMSA)](https://bimsa.net/people/sivanov/),   
+[Norio Iwase (Kyushu University)](https://www2.math.kyushu-u.ac.jp/~iwase/index-e.html),   
+[Daisuke Kishimoto (Kyushu University)](https://www2.math.kyushu-u.ac.jp/~kishimoto/home.html),   
+[Ran Levi (The University of Aberdeen)](https://www.abdn.ac.uk/people/r.levi#about),   
+[Jian Liu (Chongqing University of Technology)](https://msrc.cqut.edu.cn/info/1018/2121.htm),   
+[Zhi Lv (Fudan University)](https://math.fudan.edu.cn/fa/13/c30607a326163/page.htm),   
+[Wen Shen (Wenzhou University)](https://orcid.org/0009-0002-0518-4032),   
+[Tseleung So (Pusan National University)](https://sites.google.com/view/larryso-math/home),   
+[Lewis Stanton (University of Southampton)](https://www.southampton.ac.uk/people/66zkm9/doctor-lewis-stanton),   
+[Enxin Wu (Shantou University)](https://ncatlab.org/nlab/show/Enxin+Wu),   
+[Juxin Yang (Dalian University of Technology)](https://www.bimsa.cn/detail/jxyang.html),   
+[Li Yu (Nanjing University)](http://maths.nju.edu.cn/~lyu/),   
 
 -------------------------------------------------------------------------------------------
 

@@ -25,7 +25,15 @@ The event will follow a workshop-style forum format, featuring about 18 invited 
 
 [Ran Levi (The University of Aberdeen)](https://www.abdn.ac.uk/people/r.levi#about), 
 
+[Wen Shen (Wenzhou University)](https://orcid.org/0009-0002-0518-4032), 
+
+[Tseleung So (Pusan National University)](https://sites.google.com/view/larryso-math/home), 
+
+[Lewis Stanton (University of Southampton)](https://www.southampton.ac.uk/people/66zkm9/doctor-lewis-stanton), 
+
 [Enxin Wu (Shantou University)](https://www2.math.kyushu-u.ac.jp/~kishimoto/home.html), 
+
+[Juxin Yang (Dalian University of Technology)](https://www.bimsa.cn/detail/jxyang.html), 
 
 -------------------------------------------------------------------------------------------
 

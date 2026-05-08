@@ -21,6 +21,7 @@ The event will follow a workshop-style forum format, featuring about 18 invited 
 [Norio Iwase (Kyushu University)](https://www2.math.kyushu-u.ac.jp/~iwase/index-e.html),   
 [Daisuke Kishimoto (Kyushu University)](https://www2.math.kyushu-u.ac.jp/~kishimoto/home.html),   
 [Ran Levi (The University of Aberdeen)](https://www.abdn.ac.uk/people/r.levi#about),   
+[Fengling Li (Dalian University of Technology)](https://orcid.org/0000-0001-9670-2215),  
 [Jian Liu (Chongqing University of Technology)](https://msrc.cqut.edu.cn/info/1018/2121.htm),   
 [Zhi Lv (Fudan University)](https://math.fudan.edu.cn/fa/13/c30607a326163/page.htm),   
 [Wen Shen (Wenzhou University)](https://orcid.org/0009-0002-0518-4032),   

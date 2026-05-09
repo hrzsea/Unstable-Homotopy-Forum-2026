@@ -42,19 +42,19 @@ The event will follow a workshop-style forum format, featuring about 18 invited 
 |                             |       Aug. 03, Tue               |    Aug. 04, Tue                      |         Aug. 05, Wed                |    Aug. 06, Thu                                  |   Aug. 07, Fri                   |               
 | ----------------------------|----------------------------------|-------------------------------------  |----------------------------------  |-------------------------------------             |-------------------------------------  |
 |  |
-|            9:30 - 10:30     |  [**Ran Levi**](#Ran Levi)       |      [**Zhi Lv**](#Zhi Lv)            | [**Norio Iwase**](#Norio Iwase)     |  [**Li Yu**](#Li Yu)                     |  [**Daisuke Kishimoto**](#Daisuke Kishimoto)    |
+|            9:30 - 10:20     |  [**Ran Levi**](#Ran Levi)       |      [**Zhi Lv**](#Zhi Lv)            | [**Norio Iwase**](#Norio Iwase)     |  [**Li Yu**](#Li Yu)                     |  [**Daisuke Kishimoto**](#Daisuke Kishimoto)    |
 |  |  
-|          10:30 - 11:00      |  Tea Break                       |
+|          10:20 - 10:50      |  Tea Break                       |
 |  |     
-|          11:00 - 12:00      |                                  |        [**Enxin Wu**](#Enxin Wu)      |    [**Jian Liu**](#Jian Liu)        |   [**Lewis Stanton**](#Lewis Stanton)     |                                                |
+|          10:50 - 11:40      |                                  |        [**Enxin Wu**](#Enxin Wu)      |    [**Jian Liu**](#Jian Liu)        |   [**Lewis Stanton**](#Lewis Stanton)     |                                                |
 |  |
-|            12:00-14:30      |        Lunch Time                |
+|            11:40-15:00      |        Lunch Time                |
 |  |               
-|            14:30 - 15:30    | [**Fengling Li**](#Fengling Li ) |  [**Sergei Ivanov**](#Sergei Ivanov) |                                       |    [**Samik Basu**](#Samik Basu)         |  [**Xing Gu**](#Xing Gu)                      |
+|            15:00 - 15:50    | [**Fengling Li**](#Fengling Li ) |  [**Sergei Ivanov**](#Sergei Ivanov) |              free afternoon          |    [**Samik Basu**](#Samik Basu)         |  [**Xing Gu**](#Xing Gu)                      |
 |  |
-|          15:30 - 16:00      |     Tea Break                    |
+|          15:50 - 16:20      |     Tea Break                    |
 |  |  
-|          16:00 - 17:00      | [**Tseleung So**](#Tseleung So) |    [**Juxin Yang**](#Juxin Yang)       |                                      |    [**Wen Shen**](#Wen Shen)              |                                              |
+|          16:20 - 17:10      | [**Tseleung So**](#Tseleung So) |    [**Juxin Yang**](#Juxin Yang)       |                                      |    [**Wen Shen**](#Wen Shen)              |                                              |
 
 
 

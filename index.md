@@ -14,7 +14,7 @@ The event will follow a workshop-style forum format, featuring about 18 invited 
 
 ### Place: [**MCM 110**](#Map)     
 
-### Speakers （more will be added）: 
+### Speakers: 
 
 [Samik Basu (Indian Statistical Institute)](https://isi.irins.org/profile/111494),  
 [Guchuan Li (Peking University)](https://guchuanli.github.io/),  
@@ -47,11 +47,11 @@ The event will follow a workshop-style forum format, featuring about 18 invited 
 |  |  
 |          10:20 - 10:50      |  Tea Break                       |
 |  |     
-|          10:50 - 11:40      |                                  |        [**Enxin Wu**](#Enxin Wu)      |    [**Jian Liu**](#Jian Liu)        |   [**Lewis Stanton**](#Lewis Stanton)     |                                                |
+|          10:50 - 11:40      |                                  |        [**Enxin Wu**](#Enxin Wu)      |    [**Jian Liu**](#Jian Liu)        |   [**Lewis Stanton**](#Lewis Stanton)     |   [**Guchuan Li**](#Guchuan Li)               |
 |  |
 |            11:40-15:00      |        Lunch Time                |
 |  |               
-|            15:00 - 15:50    | [**Fengling Li**](#Fengling Li ) |  [**Sergei Ivanov**](#Sergei Ivanov) |              free afternoon          |    [**Samik Basu**](#Samik Basu)         |  [**Xing Gu**](#Xing Gu)                      |
+|            15:00 - 15:50    | [**Fengling Li**](#Fengling Li ) |  [**Sergei Ivanov**](#Sergei Ivanov) |              free afternoon          |    [**Samik Basu**](#Samik Basu)          |  [**Xing Gu**](#Xing Gu)                      |
 |  |
 |          15:50 - 16:20      |     Tea Break                    |
 |  |  

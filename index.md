@@ -46,15 +46,15 @@ The event will follow a workshop-style forum format, featuring about 18 invited 
 |  |  
 |          10:30 - 11:00      |  Tea Break                       |
 |  |     
-|          11:00 - 12:00      |                                  |        [**Jian Liu**](#Jian Liu)       |  [**Samik Basu**](#Samik Basu)     |                                           |                                                |
+|          11:00 - 12:00      |                                  |        [**Jian Liu**](#Jian Liu)     |                                      |   [**Lewis Stanton**](#Lewis Stanton)     |                                                |
 |  |
 |            12:00-14:30      |        Lunch Time                |
 |  |               
-|            14:30 - 15:30    | [**Fengling Li**](#Fengling Li ) |  [**Sergei Ivanov**](#Sergei Ivanov) |                                       |    [**Fengling Li**](#Fengling Li )       |  [**Xing Gu**](#Xing Gu)                      |
+|            14:30 - 15:30    | [**Fengling Li**](#Fengling Li ) |  [**Sergei Ivanov**](#Sergei Ivanov) |                                       |    [**Samik Basu**](#Samik Basu)         |  [**Xing Gu**](#Xing Gu)                      |
 |  |
 |          15:30 - 16:00      |     Tea Break                    |
 |  |  
-|          16:00 - 17:00      | [**Tseleung So**](#Tseleung So) |    [**Juxin Yang**](#Juxin Yang)       |                                      |    [**Wen Shen**](#Wen Shen)               |                                              |
+|          16:00 - 17:00      | [**Tseleung So**](#Tseleung So) |    [**Juxin Yang**](#Juxin Yang)       |                                      |    [**Wen Shen**](#Wen Shen)              |                                              |
 
 
 

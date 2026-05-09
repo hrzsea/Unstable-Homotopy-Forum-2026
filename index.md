@@ -17,6 +17,7 @@ The event will follow a workshop-style forum format, featuring about 18 invited 
 ### Speakers （more will be added）: 
 
 [Samik Basu (Indian Statistical Institute)](https://isi.irins.org/profile/111494),  
+[Guchuan Li (Peking University)](https://guchuanli.github.io/),  
 [Xing Gu (Westlake University)](https://en.westlake.edu.cn/faculty/xing-gu.html),  
 [Sergei Ivanov (BIMSA)](https://bimsa.net/people/sivanov/),   
 [Norio Iwase (Kyushu University)](https://www2.math.kyushu-u.ac.jp/~iwase/index-e.html),   

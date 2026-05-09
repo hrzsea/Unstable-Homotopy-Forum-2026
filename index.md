@@ -54,7 +54,7 @@ The event will follow a workshop-style forum format, featuring about 18 invited 
 |  |
 |          15:30 - 16:00      |     Tea Break                    |
 |  |  
-|          16:00 - 17:00      | [**Tseleung So**](#Tseleung So) |    [**Juxin Yang**](#Juxin Yang)       |                                      |    [**Wen Shen**](#Wen Shen)               |  [**Jiawei Zhou**](#Jiawei Zhou)            |
+|          16:00 - 17:00      | [**Tseleung So**](#Tseleung So) |    [**Juxin Yang**](#Juxin Yang)       |                                      |    [**Wen Shen**](#Wen Shen)               |                                              |
 
 
 

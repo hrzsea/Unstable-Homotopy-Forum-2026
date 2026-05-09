@@ -14,7 +14,7 @@ The event will follow a workshop-style forum format, featuring about 18 invited 
 
 ### Place: [**MCM 110**](#Map)     
 
-### Speakers: 
+### Speakers （more will be added）: 
 
 [Samik Basu (Indian Statistical Institute)](https://isi.irins.org/profile/111494),  
 [Xing Gu (Westlake University)](https://en.westlake.edu.cn/faculty/xing-gu.html),  
@@ -34,7 +34,7 @@ The event will follow a workshop-style forum format, featuring about 18 invited 
 
 -------------------------------------------------------------------------------------------
 
-## <span id="Program">Program</span>  
+## <span id="Program">Program (TBA)</span>  
 
 ### (Unstable Homotopy Forum）
 
@@ -46,15 +46,15 @@ The event will follow a workshop-style forum format, featuring about 18 invited 
 |  |  
 |          10:30 - 11:00      |  Tea Break                       |
 |  |     
-|          11:00 - 12:00      |  [**Haibao Duan**](#Haibao Duan) |        [**Jian Liu**](#Jian Liu)         |  [**Samik Basu**](#Samik Basu)    |                                         | [**Daisuke Kishimoto (online)**](#Daisuke Kishimoto)    |
-|  |
+|          11:00 - 12:00      |  [**Haibao Duan**](#Haibao Duan) |        [**Jian Liu**](#Jian Liu)       |  [**Samik Basu**](#Samik Basu)     |                                           |                                                |
+|
 |            12:00-14:30      |        Lunch Time                |
 |  |               
-|            14:30 - 15:30    | [**Fengling Li**](#Fengling Li ) |  [**Sergei Ivanov**](#Sergei Ivanov) |                                       |    [**Fengling Li**](#Fengling Li )              |  [**Xing Gu**](#Xing Gu)     |
+|            14:30 - 15:30    | [**Fengling Li**](#Fengling Li ) |  [**Sergei Ivanov**](#Sergei Ivanov) |                                       |    [**Fengling Li**](#Fengling Li )       |  [**Xing Gu**](#Xing Gu)                      |
 |  |
 |          15:30 - 16:00      |     Tea Break                    |
 |  |  
-|          16:00 - 17:00      |  [**Tseleung So u**](#Tseleung So)           |    [**Juxin Yang**](#Juxin Yang)  |                              |    [**Wen Shen**](#Wen Shen)                 |  [**Jiawei Zhou**](#Jiawei Zhou)    |
+|          16:00 - 17:00      | [**Tseleung So**](#Tseleung So) |    [**Juxin Yang**](#Juxin Yang)       |                                      |    [**Wen Shen**](#Wen Shen)               |  [**Jiawei Zhou**](#Jiawei Zhou)            |
 
 
 

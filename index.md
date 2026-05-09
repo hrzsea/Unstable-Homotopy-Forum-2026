@@ -32,6 +32,7 @@ The event will follow a workshop-style forum format, featuring about 18 invited 
 [Enxin Wu (Shantou University)](https://ncatlab.org/nlab/show/Enxin+Wu),   
 [Juxin Yang (Dalian University of Technology)](https://www.bimsa.cn/detail/jxyang.html),   
 [Li Yu (Nanjing University)](http://maths.nju.edu.cn/~lyu/),   
+[Foling Zou (AMSS)](https://zzzflll.github.io/),
 
 -------------------------------------------------------------------------------------------
 
@@ -55,7 +56,7 @@ The event will follow a workshop-style forum format, featuring about 18 invited 
 |  |
 |          15:50 - 16:20      |     Tea Break                    |
 |  |  
-|          16:20 - 17:10      | [**Tseleung So**](#Tseleung So) |    [**Juxin Yang**](#Juxin Yang)       |                                      |    [**Wen Shen**](#Wen Shen)              |                                              |
+|          16:20 - 17:10      | [**Tseleung So**](#Tseleung So) |    [**Juxin Yang**](#Juxin Yang)       |                                      |    [**Wen Shen**](#Wen Shen)              |         [**Foling Zou**](#Foling Zou)              |
 
 
 

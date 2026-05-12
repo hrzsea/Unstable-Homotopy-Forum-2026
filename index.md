@@ -30,9 +30,10 @@ The event will follow a workshop-style forum format, featuring about 18 invited 
 [Tseleung So (Pusan National University)](https://sites.google.com/view/larryso-math/home),   
 [Lewis Stanton (University of Southampton)](https://www.southampton.ac.uk/people/66zkm9/doctor-lewis-stanton),   
 [Enxin Wu (Shantou University)](https://ncatlab.org/nlab/show/Enxin+Wu),   
+[Zhouli Xu (UCLA)](https://sites.google.com/view/xuzhouli),
 [Juxin Yang (Dalian University of Technology)](https://www.bimsa.cn/detail/jxyang.html),   
 [Li Yu (Nanjing University)](http://maths.nju.edu.cn/~lyu/),   
-[Foling Zou (AMSS)](https://zzzflll.github.io/),
+[Foling Zou (AMSS)](https://zzzflll.github.io/)
 
 -------------------------------------------------------------------------------------------
 
@@ -44,15 +45,15 @@ The event will follow a workshop-style forum format, featuring about 18 invited 
 |                             |       Aug. 03, Tue               |    Aug. 04, Tue                      |         Aug. 05, Wed                |    Aug. 06, Thu                                  |   Aug. 07, Fri                   |               
 | ----------------------------|----------------------------------|-------------------------------------  |----------------------------------  |-------------------------------------             |-------------------------------------  |
 |  |
-|            9:30 - 10:20     |  [**Ran Levi**](#Ran Levi)       |      [**Zhi Lv**](#Zhi Lv)            | [**Norio Iwase**](#Norio Iwase)     |  [**Li Yu**](#Li Yu)                     |  [**Daisuke Kishimoto**](#Daisuke Kishimoto)    |
+|            9:30 - 10:20     |  [**Ran Levi**](#Ran Levi)       |      [**Zhi Lv**](#Zhi Lv)            | [**Norio Iwase**](#Norio Iwase)     |  [**Li Yu**](#Li Yu)                      |    [**Zhouli Xu**](#Zhouli Xu)   |
 |  |  
 |          10:20 - 10:50      |  Tea Break                       |
 |  |     
-|          10:50 - 11:40      |                                  |        [**Enxin Wu**](#Enxin Wu)      |    [**Jian Liu**](#Jian Liu)        |   [**Lewis Stanton**](#Lewis Stanton)     |   [**Guchuan Li**](#Guchuan Li)               |
+|          10:50 - 11:40      |  [**Samik Basu**](#Samik Basu)   |        [**Enxin Wu**](#Enxin Wu)      |    [**Jian Liu**](#Jian Liu)        |   [**Lewis Stanton**](#Lewis Stanton)     |   [**Guchuan Li**](#Guchuan Li)    |
 |  |
 |            11:40-15:00      |        Lunch Time                |
 |  |               
-|            15:00 - 15:50    | [**Fengling Li**](#Fengling Li ) |  [**Sergei Ivanov**](#Sergei Ivanov) |              free afternoon          |    [**Samik Basu**](#Samik Basu)          |  [**Xing Gu**](#Xing Gu)                      |
+|            15:00 - 15:50    | [**Fengling Li**](#Fengling Li ) |  [**Sergei Ivanov**](#Sergei Ivanov) |              free afternoon          |     [**Daisuke Kishimoto**](#Daisuke Kishimoto)     |  [**Xing Gu**](#Xing Gu)                      |
 |  |
 |          15:50 - 16:20      |     Tea Break                    |
 |  |  

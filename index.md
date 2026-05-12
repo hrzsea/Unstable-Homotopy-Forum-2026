@@ -30,7 +30,7 @@ The event will follow a workshop-style forum format, featuring about 18 invited 
 [Tseleung So (Pusan National University)](https://sites.google.com/view/larryso-math/home),   
 [Lewis Stanton (University of Southampton)](https://www.southampton.ac.uk/people/66zkm9/doctor-lewis-stanton),   
 [Enxin Wu (Shantou University)](https://ncatlab.org/nlab/show/Enxin+Wu),     
-[Zhouli Xu (UCLA)](https://sites.google.com/view/xuzhouli),
+[Zhouli Xu (UCLA)](https://sites.google.com/view/xuzhouli),  
 [Juxin Yang (Dalian University of Technology)](https://www.bimsa.cn/detail/jxyang.html),   
 [Li Yu (Nanjing University)](http://maths.nju.edu.cn/~lyu/),   
 [Foling Zou (AMSS)](https://zzzflll.github.io/)

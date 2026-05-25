@@ -86,9 +86,9 @@ Abstract:
 
 - **<span id="Daisuke Kishimoto">Daisuke Kishimoto</span>**  
 
-Title: 
+Title: Uniform Lefschetz fixed-point theorem
 
-Abstract: 
+Abstract: I will talk about joint work with Tsuyoshi Kato and Mitsunobu Tsutaya on the Lefschetz fixed-point theory for noncompact manifolds. We develop the theory in the setting of uniformly continuous self-maps that stay within a bounded distance from the identity map, together with uniformly continuous homotopies. To achieve this, we introduce a new cohomology for metric spaces, called uniform bounded cohomology, and develop an obstruction theory based on it.
 
 -------------------------------------------------------------------------------------------
 

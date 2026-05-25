@@ -23,6 +23,7 @@ The event will follow a workshop-style forum format, featuring about 18 invited 
 [Daisuke Kishimoto (Kyushu University)](https://www2.math.kyushu-u.ac.jp/~kishimoto/home.html),   
 [Ran Levi (The University of Aberdeen)](https://www.abdn.ac.uk/people/r.levi#about),   
 [Fengling Li (Dalian University of Technology)](https://orcid.org/0000-0001-9670-2215),  
+[Jingyan Li (BIMSA)](https://bimsa.net/people/jingyanli/), 
 [Guchuan Li (Peking University)](https://guchuanli.github.io/),   
 [Jian Liu (Chongqing University of Technology)](https://msrc.cqut.edu.cn/info/1018/2121.htm),   
 [Zhi Lv (Fudan University)](https://math.fudan.edu.cn/fa/13/c30607a326163/page.htm),   
@@ -30,7 +31,7 @@ The event will follow a workshop-style forum format, featuring about 18 invited 
 [Tseleung So (Pusan National University)](https://sites.google.com/view/larryso-math/home),   
 [Lewis Stanton (University of Southampton)](https://www.southampton.ac.uk/people/66zkm9/doctor-lewis-stanton),   
 [Enxin Wu (Shantou University)](https://ncatlab.org/nlab/show/Enxin+Wu),     
-[Zhouli Xu (UCLA)](https://sites.google.com/view/xuzhouli),  
+[Zhouli Xu (UCLA, cancelled)](https://sites.google.com/view/xuzhouli),  
 [Juxin Yang (Dalian University of Technology)](https://www.bimsa.cn/detail/jxyang.html),   
 [Li Yu (Nanjing University)](http://maths.nju.edu.cn/~lyu/),   
 [Foling Zou (AMSS)](https://zzzflll.github.io/)
@@ -45,7 +46,7 @@ The event will follow a workshop-style forum format, featuring about 18 invited 
 |                             |       Aug. 03, Tue               |    Aug. 04, Tue                      |         Aug. 05, Wed                |    Aug. 06, Thu                                  |   Aug. 07, Fri                   |               
 | ----------------------------|----------------------------------|-------------------------------------  |----------------------------------  |-------------------------------------             |-------------------------------------  |
 |  |
-|            9:30 - 10:20     |  [**Ran Levi**](#Ran Levi)       |      [**Zhi Lv**](#Zhi Lv)            | [**Norio Iwase**](#Norio Iwase)     |  [**Li Yu**](#Li Yu)                      |    [**Zhouli Xu**](#Zhouli Xu)   |
+|            9:30 - 10:20     |  [**Ran Levi**](#Ran Levi)       |      [**Zhi Lv**](#Zhi Lv)            | [**Norio Iwase**](#Norio Iwase)     |  [**Li Yu**](#Li Yu)                      |    [**Jingyan Li**](#Jingyan Li)   |
 |  |  
 |          10:20 - 10:50      |  Tea Break                       |
 |  |     

@@ -74,6 +74,14 @@ Abstract:
 
 -------------------------------------------------------------------------------------------
 
+- **<span id="Samik Basu">Jian Liu</span>**  
+
+Title: Khovanov homology: pro-tangles, derived colimits and spectral sequences
+
+Abstract: This work introduces pro-tangles, a natural generalization of classical tangles, which are functors from the Boolean cube to Bar-Natan's cobordism category.  By employing the simplicial Yoneda embedding, we construct the Khovanov simplicial presheaf of a pro-tangle as a homotopy colimit and prove that this simplicial presheaf is representable, with representing object the classical Khovanov simplicial object. We establish a fully faithful embedding showing that the weak equivalence class of this simplicial presheaf is determined by the chain homotopy type of the Khovanov complex. Furthermore, we utilize Boolean cube decompositions to construct an algebraic spectral sequence for pro-tangles. This spectral sequence converges to the total Khovanov homology, and its $E_1$ page is explicitly expressed in terms of the Khovanov homology of reduced tangles. This categorical setup yields a functorial interpretation of Reidemeister invariance in terms of morphisms of spectral sequences. By applying the tangle TQFT construction, we study this spectral sequence for Hopf clasps, the fundamental structural building blocks in tangle and link theory. We show that the spectral sequence collapses at the $E_3$ page, which further specializes to an $E_2$-collapse under the restriction to Hopf sums. Finally, we investigate connected sums of pro-tangles and pro-links. To address the module-action dependencies arising from tensor products in multi-connected sums, we introduce a state-dependent modified tensor operator and prove a structural decomposition theorem that generalizes the classical result at the chain complex level.
+
+-------------------------------------------------------------------------------------------
+
 
 
 - **<span id="Sergei Ivanov">Sergei Ivanov</span>**  

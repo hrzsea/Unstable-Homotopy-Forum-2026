@@ -101,6 +101,69 @@ Abstract: I will talk about joint work with Tsuyoshi Kato and Mitsunobu Tsutaya 
 -------------------------------------------------------------------------------------------
 
 
+
+- **<span id="Jingyan Li">Jingyan Li</span>**  
+
+Title: A Unified Framework for Higher Homotopy Groups of Digraphs
+
+Abstract: The classical homotopy theory of digraphs was introduced by
+Grigor'yan--Lin--Muranov--Yau in 2014. In their framework, the higher
+homotopy groups of a based digraph are defined recursively through the
+loop-digraph \(LG^*\):
+\[
+\pi_k(G^*) \cong \pi_{k-1}(LG^*).
+\]
+
+In this talk, we present a geometric approach to higher homotopy groups of
+digraphs. We first construct digraph spheres and introduce \(C\)-homotopy,
+leading to a direct sphere-based definition
+\[
+\pi_k^{S}(G^*) :=
+\left(
+\bigcup_{S^k\in \mathcal{S}^k}
+\operatorname{Hom}_*(S^k,G^*)
+\right)\big/ \simeq_C .
+\]
+
+We also introduce a simplified loop structure \(\Omega(G)\), which is obtained
+in two complementary ways: directly as a minimal \(C\)-homotopy model, and
+from the classical loop-digraph \(LG^*\) through an enlargement and retraction
+procedure. We prove that these two constructions give exactly the same
+digraph \(\Omega(G)\), and that \(\Omega(G)\) preserves the fundamental
+homotopy information of \(LG^*\):
+\[
+\pi_1(\Omega(G)) \cong \pi_1(LG^*).
+\]
+
+Consequently, we obtain the unified description
+\[
+\pi_k(G^*) \cong \pi_{k-1}(LG^*) \cong
+\pi_{k-1}(\Omega(G)) \cong \pi_k^{S}(G^*).
+\]
+
+
+-------------------------------------------------------------------------------------------
+
+
+
+
+- **<span id="Lewis Stanton">Lewis Stanton</span>**  
+
+Title: Homotopy groups of polyhedral products
+
+Abstract: A conjecture of Moore asserts a deep connection between the torsion and torsion-free parts of the homotopy groups of any simply connected finite CW complex. This is closely related to a conjecture of Anick, which asserts a connection between the homotopy groups of such spaces and the homotopy groups of spheres.
+
+Much work has been done recently to verify these conjectures in the context of polyhedral products. These are natural subspaces of Cartesian products of spaces indexed by a simplicial complex, and they unify constructions across mathematics.
+
+In this talk, I will summarise the work of Hao, Sun, and Theriault which verified Moore's conjecture for an important class of polyhedral products. I will then discuss work of various authors on Anick's conjecture, culminating in joint work with Vylegzhanin which verifies the conjecture for most polyhedral products.
+
+-------------------------------------------------------------------------------------------
+
+
+
+
+
+
 ### **<span id="Map">Map</span>**  
 
 ![map](https://raw.githubusercontent.com/hrzsea/Unstable-Homotopy-Forum-2025/gh-pages/map.png)

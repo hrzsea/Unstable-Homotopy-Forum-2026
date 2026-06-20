@@ -81,9 +81,9 @@ Title: Topological Complexity of Enumerative Problems in Algebraic Geometry
 
 Abstract:  Typical enumerative problems in algebraic geometry include finding the $d$ roots of a generic polynomial in one variable of degree $d$, finding the $27$ lines on a smooth cubic surface, and their higher dimensional analogs. We introduce the concept of topological complexity of enumerative problems, which is a positive integer that measures the least possible number of ``branches'' in the algorithms that solves an enumerative problem up to an $\epsilon$ error.
     
-    We are interested in the lower bounds of the topological complexity of enumerative problems. We introduce finite covering spaces associated to the enumerative problems and the concept of Schwarz genus of a covering space, which produces lower bounds of the topological complexity, and can be detected by certain morphisms of cohomology rings. Finally, we present lower bounds of three enumerative problems. 
+We are interested in the lower bounds of the topological complexity of enumerative problems. We introduce finite covering spaces associated to the enumerative problems and the concept of Schwarz genus of a covering space, which produces lower bounds of the topological complexity, and can be detected by certain morphisms of cohomology rings. Finally, we present lower bounds of three enumerative problems. 
 
-    This is a joint work with Weiyan Chen.
+This is a joint work with Weiyan Chen.
 
 -------------------------------------------------------------------------------------------
 

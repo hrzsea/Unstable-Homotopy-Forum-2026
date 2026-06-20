@@ -26,7 +26,7 @@ The event will follow a workshop-style forum format, featuring about 18 invited 
 [Jingyan Li (BIMSA)](https://bimsa.net/people/jingyanli/),   
 [Guchuan Li (Peking University)](https://guchuanli.github.io/),   
 [Jian Liu (Chongqing University of Technology)](https://msrc.cqut.edu.cn/info/1018/2121.htm),   
-[Zhi Lv (Fudan University)](https://math.fudan.edu.cn/fa/13/c30607a326163/page.htm),   
+[Zhi L\"u (Fudan University)](https://math.fudan.edu.cn/fa/13/c30607a326163/page.htm),   
 [Wen Shen (Wenzhou University)](https://orcid.org/0009-0002-0518-4032),   
 [Tseleung So (Pusan National University)](https://sites.google.com/view/larryso-math/home),   
 [Lewis Stanton (University of Southampton)](https://www.southampton.ac.uk/people/66zkm9/doctor-lewis-stanton),   
@@ -46,7 +46,7 @@ The event will follow a workshop-style forum format, featuring about 18 invited 
 |                             |       Aug. 03, Tue               |    Aug. 04, Tue                      |         Aug. 05, Wed                |    Aug. 06, Thu                                  |   Aug. 07, Fri                   |               
 | ----------------------------|----------------------------------|-------------------------------------  |----------------------------------  |-------------------------------------             |-------------------------------------  |
 |  |
-|            9:30 - 10:20     |  [**Ran Levi**](#Ran Levi)       |      [**Zhi Lv**](#Zhi Lv)            | [**Norio Iwase**](#Norio Iwase)     |  [**Li Yu**](#Li Yu)                      |    [**Jingyan Li**](#Jingyan Li)   |
+|            9:30 - 10:20     |  [**Ran Levi**](#Ran Levi)       |      [**Zhi L\"u**](#Zhi L\"u)          | [**Norio Iwase**](#Norio Iwase)     |  [**Li Yu**](#Li Yu)                      |    [**Jingyan Li**](#Jingyan Li)   |
 |  |  
 |          10:20 - 10:50      |  Tea Break                       |
 |  |     
@@ -75,13 +75,25 @@ Abstract:
 -------------------------------------------------------------------------------------------
 
 
+- **<span id="Xing Gu">Xing Gu</span>**  
+
+Title: Topological Complexity of Enumerative Problems in Algebraic Geometry
+
+Abstract:  Typical enumerative problems in algebraic geometry include finding the $d$ roots of a generic polynomial in one variable of degree $d$, finding the $27$ lines on a smooth cubic surface, and their higher dimensional analogs. We introduce the concept of topological complexity of enumerative problems, which is a positive integer that measures the least possible number of ``branches'' in the algorithms that solves an enumerative problem up to an $\epsilon$ error.
+    
+    We are interested in the lower bounds of the topological complexity of enumerative problems. We introduce finite covering spaces associated to the enumerative problems and the concept of Schwarz genus of a covering space, which produces lower bounds of the topological complexity, and can be detected by certain morphisms of cohomology rings. Finally, we present lower bounds of three enumerative problems. 
+
+    This is a joint work with Weiyan Chen.
+
+-------------------------------------------------------------------------------------------
+
 
 
 - **<span id="Sergei Ivanov">Sergei Ivanov</span>**  
 
-Title: 
+Title: The discrete homotopy hypothesis for directed graphs
 
-Abstract: 
+Abstract: We develop a homotopy theory of directed graphs based on cubical homotopy groups, also referred to as A-groups or reduced GLMY homotopy groups. Localizing the category of directed graphs at morphisms that induce isomorphisms on these groups yields an ∞-category DGra_∞. Our main result shows that DGra_∞  is equivalent to the ∞-category of spaces.
 
 -------------------------------------------------------------------------------------------
 
@@ -153,6 +165,17 @@ Abstract: This work introduces pro-tangles, a natural generalization of classica
 -------------------------------------------------------------------------------------------
 
 
+- **<span id="Zhi L\"u">Zhi L\"u</span>**  
+
+Title: On the calculation of equivariant geometric bordism groups                 
+
+Abstract: Classifying equivariant smooth closed manifolds up to equivariant bordism is one of fundamental problems in topology.  We will mainly focus on the case of equivariant geometric unoriented bordism of $G$-actions fixing isolated points where $G=\mathbb{Z}_2^k$,  which can directly be associated with  $G$-representation theory.  In this talk, I will introduce some new progresses, especially for the homology description and the dimension formulae of equivariant geometric bordism groups,  which involve a connection with the universal complexes of DJ theory, and the uses of  matroid theory and spectral sequence etc.    
+
+
+-------------------------------------------------------------------------------------------
+
+
+
 - **<span id="Wen Shen">Wen Shen</span>**  
 
 Title: Manifold structures on Poincaré complexes
@@ -162,6 +185,16 @@ Abstract: In this talk, we first establish a sufficient condition for a simply c
 -------------------------------------------------------------------------------------------
 
 
+
+- **<span id="Tseleung So">Tseleung So</span>**  
+
+Title: Homotopy cohmological rigidity of toric orbifolds
+
+Abstract: Toric orbifolds are orbifolds equipped with torus actions analogous to those on toric varieties. Masuda and Suh posed the Cohomological Rigidity Problem, which asks whether their topology or geometry can be determined solely by their cohomology. While affirmative answers are known in several smooth cases, the problem remains largely open in general. In this talk I will present recent results on the cohomological rigidity of toric orbifolds up to homotopy equivalence.
+
+This is based on joint work with Tyrone Cutler, Xin Fu, Jongbaek Song and Stephen Theriault.
+
+-------------------------------------------------------------------------------------------
 
 - **<span id="Lewis Stanton">Lewis Stanton</span>**  
 

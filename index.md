@@ -26,7 +26,7 @@ The event will follow a workshop-style forum format, featuring about 18 invited 
 [Jingyan Li (BIMSA)](https://bimsa.net/people/jingyanli/),   
 [Guchuan Li (Peking University)](https://guchuanli.github.io/),   
 [Jian Liu (Chongqing University of Technology)](https://msrc.cqut.edu.cn/info/1018/2121.htm),   
-[Zhi L\"u (Fudan University)](https://math.fudan.edu.cn/fa/13/c30607a326163/page.htm),   
+[Zhi Lü (Fudan University)](https://math.fudan.edu.cn/fa/13/c30607a326163/page.htm),   
 [Wen Shen (Wenzhou University)](https://orcid.org/0009-0002-0518-4032),   
 [Tseleung So (Pusan National University)](https://sites.google.com/view/larryso-math/home),   
 [Lewis Stanton (University of Southampton)](https://www.southampton.ac.uk/people/66zkm9/doctor-lewis-stanton),   
@@ -46,7 +46,7 @@ The event will follow a workshop-style forum format, featuring about 18 invited 
 |                             |       Aug. 03, Tue               |    Aug. 04, Tue                      |         Aug. 05, Wed                |    Aug. 06, Thu                                  |   Aug. 07, Fri                   |               
 | ----------------------------|----------------------------------|-------------------------------------  |----------------------------------  |-------------------------------------             |-------------------------------------  |
 |  |
-|            9:30 - 10:20     |  [**Ran Levi**](#Ran Levi)       |      [**Zhi L\"u**](#Zhi L\"u)          | [**Norio Iwase**](#Norio Iwase)     |  [**Li Yu**](#Li Yu)                      |    [**Jingyan Li**](#Jingyan Li)   |
+|            9:30 - 10:20     |  [**Ran Levi**](#Ran Levi)       |      [**Zhi Lü**](#Zhi Lü)          | [**Norio Iwase**](#Norio Iwase)     |  [**Li Yu**](#Li Yu)                      |    [**Jingyan Li**](#Jingyan Li)   |
 |  |  
 |          10:20 - 10:50      |  Tea Break                       |
 |  |     
@@ -165,7 +165,7 @@ Abstract: This work introduces pro-tangles, a natural generalization of classica
 -------------------------------------------------------------------------------------------
 
 
-- **<span id="Zhi L\"u">Zhi L\"u</span>**  
+- **<span id="Zhi Lü">Zhi Lü</span>**  
 
 Title: On the calculation of equivariant geometric bordism groups                 
 

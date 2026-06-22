@@ -68,9 +68,9 @@ The event will follow a workshop-style forum format, featuring about 18 invited 
 
 - **<span id="Samik Basu">Samik Basu</span>**  
 
-Title: 
+Title: The rational homotopy type of equivariant projective spaces and Grassmannians
 
-Abstract: 
+Abstract: The complex projective spaces and Grassmannians have, in a sense, the nicest possible rational models. In the stable category, they are equivalent to a wedge of spheres. Unstably, they are formal, and also their underlying cohomology algebras are intrinsically formal as defined by Halperin and Stasheff. We prove analogous results in the equivariant case. The results feature in joint work with Vanny Doem, Chandal Nahak, and Soumyadip Thandar.
 
 -------------------------------------------------------------------------------------------
 
